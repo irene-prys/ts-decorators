@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "js",
+        "target": "ES5",
+        "experimentalDecorators": true
+    },
+    "include": [
+        "ts/*"
+    ]
+}
